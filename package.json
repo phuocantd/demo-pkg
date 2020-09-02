@@ -1,0 +1,25 @@
+{
+  "name": "@phuocantd/demo-pkg",
+  "version": "1.0.0",
+  "description": "demo a package",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuocantd/demo-pkg.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "phuocantd <phuocantd@gmail.com> (https://phuocantd.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuocantd/demo-pkg/issues"
+  },
+  "homepage": "https://github.com/phuocantd/demo-pkg#readme"
+}
